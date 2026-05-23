@@ -5,7 +5,7 @@ This guide provides step-by-step instructions for resetting a user's password in
 
 # 🎥 Watch Me Build This Lab!
 
-**[▶️ Watch Here](https://www.loom.com/share/be99328302b94e039e8451dac6735885)**
+**[▶️ Watch Here](https://www.tella.tv/video/resetting-a-user-password-in-active-directory-1-prmy)**
 
 ## Steps
 
